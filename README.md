@@ -1,10 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=notarious2)
 
-- 👋 Hi, I’m @notarious2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Bekzod
+- 👀 I’m interested in junior web developer positions
+- 🌱 I’m currently learning Vue.Js, FastAPI
+- 📫 notarious2@gmail.com
 
 <!---
 notarious2/notarious2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

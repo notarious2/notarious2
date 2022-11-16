@@ -1,4 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=notarious2)
+<p align="center">
+	<a href="https://www.linkedin.com/in/bekzod-mirahmedov-cfa-79b5b055"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+
+</p>
+
 
 - 👋 Hi, I’m Bekzod
 - 👀 I’m interested in junior web developer positions

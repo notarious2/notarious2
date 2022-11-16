@@ -1,6 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=notarious2)
 <p align="center">
 	<a href="https://www.linkedin.com/in/bekzod-mirahmedov-cfa-79b5b055"><img src="imgs/linkedin.svg" alt="LinkedIn" style="width:30px; height: 30px;"></a>
+	<a href="https://www.linkedin.com/in/bekzod-mirahmedov-cfa-79b5b055"><img src="imgs/linkedin.svg" alt="LinkedIn" style="width:30px; height: 30px;"></a>
+	<a href="https://www.linkedin.com/in/bekzod-mirahmedov-cfa-79b5b055"><img src="imgs/linkedin.svg" alt="LinkedIn" style="width:30px; height: 30px;"></a>
+	<a href="https://www.linkedin.com/in/bekzod-mirahmedov-cfa-79b5b055"><img src="imgs/linkedin.svg" alt="LinkedIn" style="width:30px; height: 30px;"></a>
 
 </p>
 

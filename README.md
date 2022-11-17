@@ -16,8 +16,16 @@
 - 🌱 I’m currently learning Vue.Js, FastAPI
 - 📫 notarious2@gmail.com
 
-### Tech Stack
- <img alt="Vue" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/> <img alt="FastAPI" src="imgs/fastapi.png" width="200px" height="70px"/> <img alt="Postgresql" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50px" height="50px" /> <img alt="Axios" width="200px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Axios_logo_%282020%29.svg"/>
+### Tech Stack 
+<img alt="Stack" width="50px" height="50px" src="imgs/stack.svg"/> 
+
+<img alt="Vue" width="70px" height="70px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/>&emsp;&emsp;&emsp;<img alt="Vuetify" width="50px" height="50px" src="imgs/vuetify.svg"/> <img alt="Pinia" width="50px" height="50px" src="imgs/pinia.svg"/> <img alt="Veevalidate" width="80px" height="50px" src="imgs/veevalidate.webp"/><img alt="Axios" width="150px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Axios_logo_%282020%29.svg"/>
+
+
+<img alt="FastAPI" src="imgs/fastapi.png" width="200px" height="70px"/>&emsp;&emsp;&emsp;<img alt="jwt" src="imgs/jwt.png" width="150px" height="50px"/> <img alt="oauth" src="imgs/oauth2.png" width="100px" height="50px"/> 
+
+<img alt="database" width="70px" height="70px" src="imgs/database.svg"/>&emsp;&emsp;&emsp;<img alt="Postgresql" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50px" height="50px" /> <img alt="Mysql" src="imgs/mysql.svg" width="70px" height="70px"/>
+
  
 <!---
 notarious2/notarious2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

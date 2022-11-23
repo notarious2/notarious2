@@ -17,7 +17,6 @@
 - 📫 notarious2@gmail.com
 
 ### Tech Stack 
-<img alt="Stack" width="50px" height="50px" src="imgs/stack.svg"/> 
 
 <img alt="Vue" width="70px" height="70px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/>&emsp;&emsp;&emsp;<img alt="Vuetify" width="50px" height="50px" src="imgs/vuetify.svg"/> <img alt="Pinia" width="50px" height="50px" src="imgs/pinia.svg"/> <img alt="Veevalidate" width="80px" height="50px" src="imgs/veevalidate.webp"/><img alt="Axios" width="130px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Axios_logo_%282020%29.svg"/>
 

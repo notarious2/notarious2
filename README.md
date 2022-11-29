@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=notarious2)
+[![wakatime](https://wakatime.com/badge/user/0c616174-c7c1-48f6-9407-9ec3030219ab.svg)](https://wakatime.com/@0c616174-c7c1-48f6-9407-9ec3030219ab)
 
 <p><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 

@@ -2,6 +2,18 @@
 [![wakatime](https://wakatime.com/badge/user/0c616174-c7c1-48f6-9407-9ec3030219ab.svg)](https://wakatime.com/@0c616174-c7c1-48f6-9407-9ec3030219ab)
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 246 hrs 40 mins
+
+Python       110 hrs 50 mins ███████████▒░░░░░░░░░░░░░   44.94 %
+HTML         81 hrs 54 mins  ████████▒░░░░░░░░░░░░░░░░   33.20 %
+Vue.js       26 hrs 11 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+JavaScript   13 hrs 25 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Markdown     3 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+JSON         2 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+```
+
 <!--END_SECTION:waka-->
 
 <p><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>

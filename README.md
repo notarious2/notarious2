@@ -4,14 +4,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 267 hrs 47 mins
+Total Time: 277 hrs 11 mins
 
-Python       126 hrs 51 mins ████████████░░░░░░░░░░░░░   47.37 %
-HTML         84 hrs 47 mins  ████████░░░░░░░░░░░░░░░░░   31.66 %
-Vue.js       26 hrs 11 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-JavaScript   13 hrs 25 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Markdown     3 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-JSON         2 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Python       133 hrs 14 mins ████████████░░░░░░░░░░░░░   48.07 %
+HTML         85 hrs 41 mins  ███████▓░░░░░░░░░░░░░░░░░   30.92 %
+Vue.js       26 hrs 11 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+JavaScript   14 hrs 28 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Markdown     3 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Docker       2 hrs 23 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->

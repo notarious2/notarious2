@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2,250 hrs
+Total Time: 2,256 hrs 46 mins
 
-Python            1,589 hrs 5 mins█████████████████▓░░░░░░░   70.63 %
-Vue.js            270 hrs 6 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-HTML              111 hrs 43 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-JavaScript        68 hrs 41 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Dart              44 hrs 51 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Python            1,589 hrs 6 mins█████████████████▓░░░░░░░   70.41 %
+Vue.js            270 hrs 6 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
+HTML              111 hrs 43 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+JavaScript        68 hrs 50 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Dart              51 hrs 13 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
